@@ -84,7 +84,7 @@ class DataTrainingArguments:
         metadata={"help": "The name of provided dataset(s) to use. Use comma to separate multiple datasets."}
     )
     dataset_dir: Optional[str] = field(
-        default="/content/DocQA/finetune/data",
+        default="/content/Auiqla-finetune/data",
         metadata={"help": "The name of the folder containing datasets."}
     )
     split: Optional[str] = field(
