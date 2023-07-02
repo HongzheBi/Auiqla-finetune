@@ -4,7 +4,8 @@
         "file_sha1": "3eaa3bda364ccdd59925d7448a698256c31ef845"
     },
     "gsm8k": {
-        "hf_hub_url": "HongzheBi/gsm8k-cot",
+        "file_name": "gsm8k.json",
+        "file_sha1": "e3cf065117fcdb5be21ef34e8931d89aa9acf84f",
         "columns": {
             "prompt": "input",
             "query": "",
