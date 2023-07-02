@@ -6,8 +6,8 @@ from dataclasses import dataclass, field
 
 #CHATGLM_REPO_NAME = "qhduan/aquilachat-7b"
 #CHATGLM_VERSION = "main"
-CHATGLM_REPO_NAME = "THUDM/chatglm2-6b"
-CHATGLM_VERSION = "main"
+CHATGLM_REPO_NAME = "THUDM/chatglm-6b"
+CHATGLM_VERSION = "a8ede826cf1b62bd3c78bdfb3625c7c5d2048fbd"
 
 
 @dataclass
