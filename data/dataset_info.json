@@ -4,7 +4,13 @@
         "file_sha1": "3eaa3bda364ccdd59925d7448a698256c31ef845"
     },
     "gsm8k": {
-        "hf_hub_url": "HongzheBi/gsm8k-cot"
+        "hf_hub_url": "HongzheBi/gsm8k-cot",
+        "columns": {
+            "prompt": "input",
+            "query": "",
+            "response": "output",
+            "history": ""
+        }
     },
     "belle_2m": {
         "hf_hub_url": "BelleGroup/train_2M_CN"
